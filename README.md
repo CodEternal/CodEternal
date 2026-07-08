@@ -1,7 +1,7 @@
 # Márcio Oliveira
 **Economia — FECAP · São Paulo**
 
-Sou um entusiasta da tecnologia, meu principal objetivo com esse repositório é compartilhar aquilo que tenho construído no meu ambiente de trabalho e projetos pessoais. Em síntese, construo automações e ferramentas para as áreas de **Riscos**, construindo automações que reduzem o trabalho manual e erro operacional. Abaixo, os projetos que desenvolvi.
+Sou um entusiasta da tecnologia, meu principal objetivo com esse repositório é **compartilhar aquilo que tenho construído no meu ambiente de trabalho e projetos pessoais.** Em síntese, construo automações e ferramentas para área de **Riscos**, mitigando erro operacional, reduzindo trabalho manual e aumentando acertividade dos cálculos. Abaixo, os projetos que desenvolvi.
 
 ## Projetos
 
