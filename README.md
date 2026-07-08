@@ -1,9 +1,7 @@
 # Márcio Oliveira
 **Economia — FECAP · São Paulo**
 
-Construo automações e ferramentas para as áreas de **Risco** e **precificação de renda
-fixa**, reduzindo trabalho manual, erro operacional e tempo de fechamento. Abaixo, os
-projetos que desenvolvi.
+Sou um entusiasta da tecnologia, meu principal objetivo com esse repositório é compartilhar aquilo que tenho construído no meu ambiente de trabalho e projetos pessoais. Em síntese, construo automações e ferramentas para as áreas de **Riscos**, construindo automações que reduzem o trabalho manual e erro operacional. Abaixo, os projetos que desenvolvi.
 
 ## Projetos
 
@@ -18,5 +16,3 @@ Cada repositório está descrito em **Problema → Solução → Resultado.**
 ## Stack
 
 Python · SQL · VBA
-
-📍 São Paulo · ✉️ oliveira.marcio@edu.fecap.br
