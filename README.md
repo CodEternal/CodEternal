@@ -17,6 +17,6 @@ projetos que desenvolvi.
 Cada repositório está descrito em **Problema → Solução → Resultado.**
 ## Stack
 
-Python · VBA/Excel · APIs de mercado (B3 / IPEA / FRED) · automação de rotina
+Python · SQL · VBA/Excel
 
 📍 São Paulo · ✉️ oliveira.marcio@edu.fecap.br
