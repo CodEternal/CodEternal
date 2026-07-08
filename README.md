@@ -1,7 +1,5 @@
 # Márcio Oliveira
-
-**Estagiário de Riscos | Oslo Capital DTVM**
-Economia — FECAP · São Paulo
+**Economia — FECAP · São Paulo**
 
 Construo automações e ferramentas para as áreas de **Risco** e **precificação de renda
 fixa**, reduzindo trabalho manual, erro operacional e tempo de fechamento. Abaixo, os
