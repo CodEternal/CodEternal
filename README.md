@@ -11,6 +11,7 @@ Sou um entusiasta da tecnologia, meu principal objetivo com esse repositório é
 | **[Precificação de Ativos na Curva](https://github.com/EternalCodeBR/modelo-anbima)** | Migração do modelo de Marcação na Curva (modelo ANBIMA de precificação) para Python, com batimento automático |
 | **[Fornecimento automático de PUs](https://github.com/EternalCodeBR/automacao-fiduciario)** | Integração com agentes fiduciários para fornecimento automático de PU's |
 | **[Base de Dados de Mercado](https://github.com/EternalCodeBR/Dados_Mercado)** | Coleta automatizada de indicadores de mercado (CDI, PTAX, moedas, IPCA) via fontes oficiais, com histórico incremental e notificação no Teams |
+| **[Base de Dados de Mercado](https://github.com/EternalCodeBR/agente_financeiro)** | Controle de gastos workflow em PYTHON, API PLUGGY e integração com LLM para análise financeira *(EM CONSTRUÇÃO)*|
 
 Cada repositório está descrito em **Problema → Solução → Resultado.**
 ## Stack
